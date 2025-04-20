@@ -40,6 +40,8 @@ This project aims to optimize neural networks for skin cancer detection by lever
 #### Benefits of Pruning
 - Reduces the number of learnable parameters and model size.
 - Enhances computational efficiency, making the models suitable for deployment in small-scale environments.
+- Computational Efficiency: Enables deployment and training on edge devices, making diagnostic tools more accessible.
+- Scalability & Real-World Impact: Reduces model size and inference time, facilitating real-world applications in healthcare. Less number of parameters and conv filters able to process the same information - meaning there exists a lower limit for all models after which there is loss of information/patterns learnt.
 
   #### Final Outcome
 
